@@ -1,0 +1,14 @@
+/Users/andrewalenta/workspace/dotnet-projects/hello-world/bin/Debug/net8.0/hello-world
+/Users/andrewalenta/workspace/dotnet-projects/hello-world/bin/Debug/net8.0/hello-world.deps.json
+/Users/andrewalenta/workspace/dotnet-projects/hello-world/bin/Debug/net8.0/hello-world.runtimeconfig.json
+/Users/andrewalenta/workspace/dotnet-projects/hello-world/bin/Debug/net8.0/hello-world.dll
+/Users/andrewalenta/workspace/dotnet-projects/hello-world/bin/Debug/net8.0/hello-world.pdb
+/Users/andrewalenta/workspace/dotnet-projects/hello-world/obj/Debug/net8.0/hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewalenta/workspace/dotnet-projects/hello-world/obj/Debug/net8.0/hello-world.AssemblyInfoInputs.cache
+/Users/andrewalenta/workspace/dotnet-projects/hello-world/obj/Debug/net8.0/hello-world.AssemblyInfo.cs
+/Users/andrewalenta/workspace/dotnet-projects/hello-world/obj/Debug/net8.0/hello-world.csproj.CoreCompileInputs.cache
+/Users/andrewalenta/workspace/dotnet-projects/hello-world/obj/Debug/net8.0/hello-world.dll
+/Users/andrewalenta/workspace/dotnet-projects/hello-world/obj/Debug/net8.0/refint/hello-world.dll
+/Users/andrewalenta/workspace/dotnet-projects/hello-world/obj/Debug/net8.0/hello-world.pdb
+/Users/andrewalenta/workspace/dotnet-projects/hello-world/obj/Debug/net8.0/hello-world.genruntimeconfig.cache
+/Users/andrewalenta/workspace/dotnet-projects/hello-world/obj/Debug/net8.0/ref/hello-world.dll
